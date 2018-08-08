@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mmeals on Wheels</string>
+
+    <string name="restaurent">Restaurent</string>
+    <string name="daily_needs">Daily Needs</string>
+    <string name="fruits_and_vegetables">Fruits and Vegetables</string>
+    <string name="medicines">Medicines</string>
+
+    <string name="all_restaurants">All Restaurants</string>
+    <string name="sorted_by_rating">sorted by rating</string>
+    <string name="message_no_results">Oops, couldn\'t find any results\nthat matched your filter</string>
+
+</resources>
